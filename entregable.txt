@@ -1,0 +1,17 @@
+¿Qué es lo que hace bd-dark?
+bg-dark cambia el color de la navbar a oscuro
+
+¿Cuál es el color hexadecimal del fonde del navbar?
+El color en su forma hexadecimal es #212529
+
+¿Qué es lo que permite que en el formulario la contraseña esté oculta?
+La palabra "password" 
+
+¿Dónde deberías agregar CSS en el documento si modificas el estilo de algúna clase? 
+Dentro del  "head"
+
+¿Bootstrap incorpora algún mecanismo para realizar los cambios del paso 4? 
+Solo tiene una serie de etiquetas que permiten añadir colores basado en el significado de los colores
+
+¿Cómo cambiarias el fondo por un video?
+Utilizando el mismo formato de la imagen pero ponemos la etiqueta del video
